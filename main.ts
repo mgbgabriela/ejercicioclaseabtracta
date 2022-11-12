@@ -45,7 +45,7 @@ class Camioneta extends Automovil {
 
 
 
-    public acelerar (): void { 
+    public acelerar (): void {
     this.velocidadActual += 15;
 }
 }
@@ -65,3 +65,5 @@ autoCarrera1.acelerar();
 console.log(autoCiudad1);
 console.log (camioneta1);
 console.log (autoCarrera1);
+
+
